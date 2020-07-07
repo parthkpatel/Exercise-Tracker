@@ -1,6 +1,5 @@
 # Exercise-Tracker
 
-===================
 This is a simple Exercise Tracking Application, created using the MERN (MongoDB, Express.js, React, Node.js) Stack.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
